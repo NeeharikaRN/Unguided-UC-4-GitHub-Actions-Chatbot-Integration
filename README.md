@@ -7,3 +7,6 @@ This repository demonstrates a **GitHub Actions Chatbot Integration** that autom
 
 ## Example Python App
 The included `app.py` is a simple sample program used to simulate PRs and issues for chatbot testing.
+
+## Possible Enhancements
+Extend to more keywords.
